@@ -42,7 +42,8 @@ suka menanam pohon gajah
 
 </table>
 
-
+<style>
 table{
 background-color : red;
 }
+</style>
