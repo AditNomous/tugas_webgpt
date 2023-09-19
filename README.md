@@ -18,7 +18,7 @@ suka menanam pohon shopee
 <tr>
 <td>1</td>
 <td>danu din kusuma</td>
-<td><img src="https://awsimages.detik.net.id/community/media/visual/2022/05/23/danu-arman_169.jpeg?w=1200" width="150" height="100"></td>
+<td><img src="https://coughin.files.wordpress.com/2010/11/140720101901.jpg" width="150" height="100"></td>
 <td>18</td>
 </tr>
 <tr>
