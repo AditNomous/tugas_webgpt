@@ -6,4 +6,4 @@ suka menanam pohon shopee
 
 
 
-https://cdns.klimg.com/merdeka.com/i/w/news/2020/04/28/1171626/540x270/7-cara-menghilangkan-rasa-malas-berlebihan-dengan-ampuh-dan-mudah.jpg
+<img src="https://cdns.klimg.com/merdeka.com/i/w/news/2020/04/28/1171626/540x270/7-cara-menghilangkan-rasa-malas-berlebihan-dengan-ampuh-dan-mudah.jpg">
