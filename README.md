@@ -1,3 +1,8 @@
+<style>
+table{
+background-color : red;
+}
+</style>
 # tugas_webgpt
 <h1>adit gg banget pak haji dermawan aminnn <br/> </h1>
 assalamualaikum saya ingin berani <br/>
@@ -41,9 +46,3 @@ suka menanam pohon gajah
 </tr>
 
 </table>
-
-<style>
-table{
-background-color : red;
-}
-</style>
