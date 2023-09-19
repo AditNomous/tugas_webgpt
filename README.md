@@ -20,21 +20,24 @@ suka menanam pohon shopee
 <td>danu din kusuma</td>
 <td><img src=""></td>
 <td>18</td>
-
+</tr>
+<tr>
 <td>2</td>
 <td>dafid negroho</td>
 <td><img src=""></td>
 <td>14</td>
-
+</tr>
+<tr>
 <td>3</td>
 <td>sukmadi</td>
 <td><img src=""></td>
 <td>15</td>
+</tr>
+<tr>
 <td>4</td>
 <td>ina kusuma</td>
 <td><img src=""></td>
 <td>99</td>
-
 </tr>
 
 </table>
