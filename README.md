@@ -2,7 +2,7 @@
 <h1>adit gg banget pak haji dermawan aminnn <br/> </h1>
 assalamualaikum saya ingin berani <br/>
 malas berbuat malas <br/>
-suka menanam pohon shopee
+suka menanam pohon gajah
 
 
 
